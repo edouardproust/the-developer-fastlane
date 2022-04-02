@@ -1,0 +1,258 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202105 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.edouardp10.sg-host.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2684                
+POS_VISITOR 6405                
+POS_DAY 6751                
+POS_DOMAIN 3237                
+POS_LOGIN 3488                
+POS_ROBOT 3643                
+POS_WORMS 3847                
+POS_EMAILSENDER 3978                
+POS_EMAILRECEIVER 4121                
+POS_SESSION 6931                
+POS_SIDER 7077                
+POS_FILETYPES 4256                
+POS_DOWNLOADS 4354                
+POS_OS 4463                
+POS_BROWSER 4569                
+POS_SCREENSIZE 4700                
+POS_UNKNOWNREFERER 4774                
+POS_UNKNOWNREFERERBROWSER 4999                
+POS_ORIGIN 5219                
+POS_SEREFERRALS 5349                
+POS_PAGEREFS 5515                
+POS_SEARCHWORDS 5663                
+POS_KEYWORDS 5815                
+POS_MISC 2348                
+POS_ERRORS 5874                
+POS_CLUSTER 3344                
+POS_SIDER_404 5972                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210607204041 41 11697 28769164592252
+FirstTime 20210507141753
+LastTime 20210531100725
+LastUpdate 20210608044104 41 40 0 0 0
+TotalVisits 8                   
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 1 40919
+1 0 0 0 2 2 81838
+2 1 1 40919 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 1 1 41035
+5 1 1 40919 4 4 41035
+6 0 0 0 0 0 0
+7 0 0 0 9 9 40919
+8 0 0 0 0 0 0
+9 0 0 0 1 1 41035
+10 1 1 107 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 2 3 51674 2 10 151555
+15 0 0 0 2 2 81954
+16 0 0 0 4 4 0
+17 0 0 0 3 3 40919
+18 0 0 0 2 2 0
+19 1 1 10632 2 2 41035
+20 1 1 10632 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 1 1 41035
+23 1 1 41035 1 1 40919
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 4 4 31926
+gr 3 3 122873
+gb 1 2 41119
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+custo 13 532527 20210526095302 0
+no_user_agent 1 41035 20210520191122 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 8 165354 0 0
+pdf 1 30564 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/_share/Avis_d_impot_2021_sur_les_revenus_2020.pdf 1 0 30564
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+win10 1 1
+Unknown 3 3
+linux 2 1
+win7 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome90.0.4430.93 2 1
+chrome42.0.2311.90 3 3
+Unknown 3 3
+chrome76.0.3809.71 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210516234053
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210516234053
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 5 6
+From1 0 0
+From2 3 3
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_hk 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+444 20 0
+404 6 110636
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/impot-2020.pdf 2 -
+/impot-2021.pdf 1 -
+/public_html/_share/Avis_d_impot_2021_sur_les_revenus_2020.pdf 2 -
+/public_html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+92.118.160.9 2 2 81954 20210516234053
+65.155.30.101 1 1 10555 20210507142920
+192.151.156.189 1 1 10632 20210519190044
+63.141.251.235 1 1 10632 20210527201314
+178.159.3.165 1 2 41119 20210507141753
+69.197.185.131 1 1 107 20210531100725
+92.118.160.17 1 1 40919 20210515053030
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20210507 2 3 51674 2
+20210515 1 1 40919 1
+20210516 2 2 81954 2
+20210519 1 1 10632 1
+20210527 1 1 10632 1
+20210531 1 1 107 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 6 144090 6 6
+// 2 21264 2 2
+END_SIDER

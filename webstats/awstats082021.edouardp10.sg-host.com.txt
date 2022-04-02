@@ -1,0 +1,515 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202108 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.edouardp10.sg-host.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2688                
+POS_VISITOR 13251               
+POS_DAY 13555               
+POS_DOMAIN 3230                
+POS_LOGIN 3470                
+POS_ROBOT 3625                
+POS_WORMS 3827                
+POS_EMAILSENDER 3958                
+POS_EMAILRECEIVER 4101                
+POS_SESSION 13733               
+POS_SIDER 13889               
+POS_FILETYPES 4236                
+POS_DOWNLOADS 4335                
+POS_OS 4383                
+POS_BROWSER 4488                
+POS_SCREENSIZE 4626                
+POS_UNKNOWNREFERER 4700                
+POS_UNKNOWNREFERERBROWSER 4787                
+POS_ORIGIN 4869                
+POS_SEREFERRALS 5001                
+POS_PAGEREFS 5167                
+POS_SEARCHWORDS 5315                
+POS_KEYWORDS 5467                
+POS_MISC 2352                
+POS_ERRORS 5526                
+POS_CLUSTER 3326                
+POS_SIDER_404 5618                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210901042813 545 157902 15871253346514
+FirstTime 20210806130732
+LastTime 20210824112613
+LastUpdate 20210901043653 545 544 0 0 0
+TotalVisits 7                   
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 107 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 7 7 74347 113 247 4649101
+9 2 2 21187 10 39 697417
+10 5 5 53160 103 208 3951684
+11 1 1 10558 0 1 61
+12 0 0 0 0 0 0
+13 2 2 10662 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 1 1 10555 29 29 561759
+19 0 0 0 0 0 0
+20 0 0 0 1 1 41035
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+cn 15 15 159252
+us 4 4 21324
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+unknown 3 183 20210824112607 3
+no_user_agent 1 41035 20210809202423 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 10 106320 0 0
+html 9 74256 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+linuxandroid 1 1
+macosx9 15 15
+win7 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+firefox57.0 1 1
+chrome42.0.2311.90 2 2
+chrome36.0.1985.125 15 15
+chrome73.0.3683.90 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 17 17
+From1 0 0
+From2 2 2
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_hk 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 509 9859839
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 267
+/wordpress/ 1 -
+/admin.php 4 -
+/images/2_11.gif 2 -
+/phpmyadmin/themes/original/img/logo_right.png 2 -
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 2 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 2 -
+/new_gb/help/images/usage/3.3.gif 2 -
+/web/ 1 -
+/fckeditor/fckeditor.js 2 -
+/common/common.js 2 -
+/Admin/Images/LoginImages/admin_top.gif 2 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 2 -
+/Images/login/lefttu.jpg 2 -
+/install/ 1 -
+/Images/login/mainlogo.gif 2 -
+/member/space/company/info.txt 2 -
+/was/main.html 2 -
+/siteserver/upgrade/default.aspx 2 -
+/back/scripts/jspxcms_choose.js 2 -
+/images/logo-white.png 2 -
+/administrator/manifests/files/joomla.xml 2 -
+/index.cgi 2 -
+/test/ 1 -
+/static/hgicon.png 2 -
+/doku.php 2 -
+/datacenter/downloadApp/showDownload.do 2 -
+/docs.css 2 -
+/was/help.jsp 2 -
+/wp-login.php 2 -
+/inc/rsd.php 2 -
+/admin/inc/xml.xslt 2 -
+/User/Login.aspx 2 -
+/kindeditor.js 2 -
+/logo/logo_jw.png 2 -
+/pub/guiedit/guiedit.js 2 -
+/bencandy.php 2 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 2 -
+/jcms/index_jcms.jsp 2 -
+/images/zh-CN/logo.ico 2 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 2 -
+/Images/login/biaoti.jpg 2 -
+/license.txt 2 -
+/help/en/h_authenticate.html 2 -
+/archiver/ 2 -
+/plug/publish 2 -
+/cgi/index.cgi 2 -
+/history.txt 2 -
+/images/Default_bg_002.gif 2 -
+/addons/theme/stv1/_static/ts2/layout.css 2 -
+/tpl/login/user/images/login_bg_1.jpg 2 -
+/v2/ 1 -
+/deptWebsiteAction.do 2 -
+/plus/sitemap.html 2 -
+/readme.html 2 -
+/rss.aspx 2 -
+/old-wp/ 1 -
+/plus/download.php 2 -
+/system/language/zh-cn.xml 2 -
+/includes/general.js 2 -
+/kindeditor-min.js 2 -
+/addons/theme/stv2/_static/ts2/layout.css 2 -
+/script/login.js 2 -
+/default/css/em_css.css 2 -
+/jcms/index.jsp 2 -
+/editor/js/fckeditorcode_ie.js 2 -
+/app/images/login/toplogo.gif 2 -
+/system/skins/default/system.login.htm 2 -
+/Template/Default/Skin/user/images/login_back.jpg 2 -
+/archive/archive.css 2 -
+/app/home/skins/default/style.css 2 -
+/fckeditor/editor/dtd/fck_dtd_test.html 2 -
+/images/hwem.css 2 -
+/forum/ 2 -
+/style/default/hdwiki.css 2 -
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 2 -
+/new/ 1 -
+/lang/en.js 2 -
+/system/Update.aspx 2 -
+/console/js/CWCMDialogHead.js 2 -
+/examples/index.html 2 -
+/ids/admin/userhome/forgetPwd.jsp 2 -
+/ckfinder/install.txt 2 -
+/Search.html 2 -
+/Prompt/images/P_Wrong.gif 2 -
+/Admin/Login.aspx 2 -
+/bk/ 1 -
+/template/home.htm 2 -
+/default/images/logo.gif 2 -
+/m 2 -
+/plus/rssmap.html 2 -
+/script/valid_formdata.js 2 -
+/wp2/ 1 -
+/docs/ 2 -
+/admin/ 2 -
+/base/login/login.php 2 -
+/images/login/eyoumail.gif 2 -
+/admin/editor/ 2 -
+/2018/ 1 -
+/ckeditor/ckeditor.js 2 -
+/wp1/ 1 -
+/Install/logo.gif 2 -
+/blog/ 3 -
+/public/about.html 2 -
+/next/img/logo.gif 2 -
+/wp/ 1 -
+/v1/ 1 -
+/was5/web/index.jsp 2 -
+/archiver 2 -
+/digg.php 2 -
+/maintlogin.jsp 2 -
+/themes/graphics/horde-power1.png 2 -
+/adminsoft/templates/images/login_bg_top.jpg 2 -
+/plugins/filemanager/filemanager/js 2 -
+/asp.net/README.txt 2 -
+/inc/Templates/rss.xslt 2 -
+/demo/ 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 2 -
+/backup/ 1 -
+/extman/default/images/logo.gif 2 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 2 -
+/Scripts/jquery/maticsoft.jquery.min.js 2 -
+/admin 2 -
+/images/login_Name.jpg 2 -
+/extern.php 2 -
+/master/login.aspx 2 -
+/admin/login.aspx 2 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 2 -
+/test_404_page/ 2 -
+/console/include/not_login.htm 2 -
+/tools/rss.aspx 2 -
+/fckeditor/editor/js/fckeditorcode_ie.js 2 -
+/apps/admin/_static/image/login_box_bg.png 2 -
+/template/1/bluewise/_files/jspxcms.css 2 -
+/webbuilder/script/locale/wb-lang-zh_CN.js 2 -
+/stylesheet.css 2 -
+/Help 2 -
+/feed.asp 2 -
+/examples/file-manager.html 2 -
+/coremail/common/help/images/helplogo.gif 2 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 2 -
+/ckeditor/ckfinder/install.txt 2 -
+/siteserver/login.aspx 2 -
+/images/login/logo.gif 2 -
+/new-site/ 1 -
+/bak/ 1 -
+/help/ch_gb/images/help-title.gif 2 -
+/issmall/ 2 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 2 -
+/Editor.js 2 -
+/examples/readonly.html 2 -
+/Admin/Common/HelpLinks.xml 2 -
+/ids/admin/login.jsp 2 -
+/admin/start/index.php 2 -
+/wcm/ 2 -
+/FCK/fckeditor.js 2 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 2 -
+/media/com_hikashop/js/hikashop.js 2 -
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 2 -
+/wp-content 2 -
+/dialog/dialog.js 2 -
+/business/images/index-gg1.jpg 2 -
+/whir_system/login.aspx 2 -
+/2019/ 1 -
+/img/pic/login/top-left.jpg 2 -
+/images/branding/logo.gif 2 -
+/app/js/source/wcmlib/WCMConstants.js 2 -
+/help/user/index.html 2 -
+/Include/EcsServerApi.js 2 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 2 -
+/plugins/anchor/anchor.js 2 -
+/data/admin/ver.txt 2 -
+/pub/skins/pmwiki/pmwiki.css 2 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 2 -
+/README.txt 2 -
+/coremail/common/help/images/helplogo_zh.gif 2 -
+/admin/js/IdSUtil.js 2 -
+/eams/static/scripts/grade/course/input.js 2 -
+/tmp/ 1 -
+/e/master/login.aspx 2 -
+/skin/frontend/default/modern/css/styles.css 2 -
+/themes/default/default.css 2 -
+/themes/default/graphics/horde-power1.png 2 -
+/images/login/icon-up.gif 2 -
+/weblog/ 2 -
+/admin/login.asp 2 -
+/admin/SouthidcEditor/ewebeditor.asp 2 -
+/FCK/editor/js/fckeditorcode_ie.js 2 -
+/images/logo_product-cml.png 2 -
+/images/default/post_bt.gif 2 -
+/install 2 -
+/js/ajax_x.js 2 -
+/fckeditor.js 2 -
+/wp-cron.php 2 -
+/temp/ 1 -
+/forum.php 2 -
+/docs/DOCUMENTATION.txt 2 -
+/fckeditor/license.txt 2 -
+/dev/ 1 -
+/home/ 1 -
+/fckeditor/fckconfig.js 2 -
+/phpmyadmin/docs.css 2 -
+/whir_system/module/security/login.aspx 2 -
+/admin/login.php 2 -
+/licence.txt 2 -
+/console/js/CTRSRequestParam.js 2 -
+/admin/SouthidcEditor/Dialog/dialog.js 2 -
+/admin/index.php 2 -
+/max-templates/classic/styles/app.css 2 -
+/changelog.txt 2 -
+/app/images/login/logo.png 2 -
+/inc/playerKinds.xml 2 -
+/Admin/Images/LoginImages/admin_text.gif 2 -
+/forums/list.page 2 -
+/404.jpg 2 -
+/old/ 1 -
+/phpmyadmin/ 2 -
+/main/ 1 -
+/list.php 2 -
+/data/images/wap_logo.gif 2 -
+/api/api_user.xml 2 -
+/login/Jeecms.do 2 -
+/include/dialog/config.php 2 -
+/advfile/ad12.js 2 -
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 2 -
+/ycportal/js/wbTextBox/showimg.jsp 2 -
+/plugin.php 2 -
+/ymail/images/index_r1_c4.jpg 2 -
+/ckfinder/ckfinder.html 2 -
+/web2/login_template/1.files/Logo1.jpg 2 -
+/console/auth/reg_newuser.jsp 2 -
+/editor/fckeditor.js 2 -
+/rss.php 2 -
+/images/logo_88x31.gif 2 -
+/include/dedeajax2.js 2 -
+/static/images/logo/webserver_small.gif 2 -
+/Error.aspx 2 -
+/public/js/ipb.js 2 -
+/imagesschool/style1/flash2.jpg 2 -
+/site/ 1 -
+/images/login9/login_33.jpg 2 -
+/ks_inc/ajax.js 2 -
+/helpnew/faq/faq_simple_zh_CN.jsp 2 -
+/clientscript/vbulletin_ajax_htmlloader.js 2 -
+/bbs/ 2 -
+/admin/template/article_more/config.htm 2 -
+/common/help/images/helplogo.gif 2 -
+/nobody/mobile.htm 2 -
+/2020/ 1 -
+/CHANGELOG.txt 2 -
+/License.txt 2 -
+/ckeditor/ckfinder/ckfinder.html 2 -
+/app/login.jsp 2 -
+/customdir/images/english_logo.jpg 2 -
+/uc_server/control/admin/db.php 2 -
+/common/help/images/helplogo_zh.gif 2 -
+/admin/admin_login.php 2 -
+/Wq_StranJF.js 2 -
+/plus/heightsearch.php 2 -
+/system/Login.aspx 2 -
+/tpl/user/tpl1/css/skins/blue.css 2 -
+/cms/ 1 -
+/Public/Admin/Images/login_main_bg.jpg 2 -
+/auth/login 2 -
+/js/buttons.js 2 -
+/Ntalker/lawfirm.aspx 2 -
+/old-site/ 1 -
+/include/install_ocx.aspx 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+106.55.250.60 7 7 74347 20210812082235
+159.75.25.179 7 7 74347 20210818100331
+34.71.210.147 2 2 21110 20210808183031
+142.54.177.2 1 1 107 20210823005554
+42.194.143.145 1 1 10558 20210824112613
+198.204.234.252 1 1 107 20210806130732
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20210806 1 1 107 1
+20210808 2 2 21110 2
+20210812 7 7 74347 1
+20210818 7 7 74347 1
+20210823 1 1 107 1
+20210824 1 1 10558 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 5
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/index.php 10 106320 0 2
+/ 9 74256 7 5
+END_SIDER

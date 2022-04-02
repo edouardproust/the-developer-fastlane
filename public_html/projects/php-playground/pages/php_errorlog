@@ -1,0 +1,10 @@
+[11-Dec-2020 22:12:32 UTC] PHP Fatal error:  Uncaught TypeError: Return value of login_verify() must be of the type bool or null, none returned in /home/customer/www/edouardp10.sg-host.com/public_html/projects/php-playground/includes/functions/login.php:31
+Stack trace:
+#0 /home/customer/www/edouardp10.sg-host.com/public_html/projects/php-playground/pages/login.php(13): login_verify()
+#1 {main}
+  thrown in /home/customer/www/edouardp10.sg-host.com/public_html/projects/php-playground/includes/functions/login.php on line 31
+[11-Dec-2020 22:43:31 UTC] PHP Fatal error:  Uncaught TypeError: Return value of login_verify() must be of the type bool or null, none returned in /home/customer/www/edouardp10.sg-host.com/public_html/projects/php-playground/includes/functions/login.php:31
+Stack trace:
+#0 /home/customer/www/edouardp10.sg-host.com/public_html/projects/php-playground/pages/login.php(13): login_verify()
+#1 {main}
+  thrown in /home/customer/www/edouardp10.sg-host.com/public_html/projects/php-playground/includes/functions/login.php on line 31
